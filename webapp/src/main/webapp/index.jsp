@@ -3,7 +3,6 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>please fill the below love appeal form</p>
     <p>I LOVE YOU BABY..........</p>
-    <p>This is my life story</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
