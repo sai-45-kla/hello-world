@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>please fill the below love appeal form</p>
-    <p>I LOVE YOU BABY..........</p>
+    <p>I LOVE YOU ALKA..........</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy life </h1>
 
   
 </form>
